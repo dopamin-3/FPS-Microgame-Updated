@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{7CD66716-BC63-A827-75F7-15AFBAB52169}</ProjectGuid>
+    <ProjectGuid>{B2E58474-E4AB-0860-758B-DF1874A41CC1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.FPS.Tutorials</AssemblyName>
